@@ -1,34 +1,56 @@
-# 🚀 About Me  
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  Hi, I'm <b>Your Name</b> 🚀
+</h1>
 
-👋 Hi, I'm a **passionate developer** who loves creating and building digital experiences!  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A800&size=22&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;UI/UX+Designer;Backend+Enthusiast;Tech+Lover+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A" />
+</p>
+
+---
+
+## 🚀 **About Me**  
+
+👨‍💻 Passionate about **creating and building digital experiences**!  
 
 🎨 **UI/UX Designer** | 💻 **Full-Stack Developer**  
 
----
+🎓 **Software Engineering Student** in the **Netherlands 🇳🇱**  
 
-## 🛠 Tech Stack  
+💡 I love working on **web development, backend servers, and modern UI/UX**.  
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-
-**Database:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+⚡ Always excited about new projects & collaborations!  
 
 ---
 
-## 📚 Currently Studying  
-🎓 **Software Engineering** | 🇳🇱 Based in the Netherlands  
+## 🛠 **Tech Stack**  
 
-I enjoy working on **web development**, building **backend servers**, and designing **modern UI/UX**.  
-Always open to exciting projects and collaborations!  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px"/>
+</p>
 
-✨ Let's bring ideas to life! 🚀  
+---
+
+## 🎯 **Let's Connect**  
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px"/>
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px"/>
+  </a>
+</p>
+
+---
+
+⭐ **Fun Fact:** *Coding is like magic, but real!* 🎩✨  
 
