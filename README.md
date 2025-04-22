@@ -12,7 +12,7 @@
 ---
 
 <!-- Current Projects Section -->
-<h2 align="center">🚧 Current Projects: 4+ | 📦 Packages: 1+</h2>
+<h2 align="center">🚧 Current Projects: 10+ | 📦 Packages: 1+</h2>
 
 ---
 
