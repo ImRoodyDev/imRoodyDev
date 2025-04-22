@@ -61,7 +61,7 @@
   <a href="https://github.com/ImRoodyDev">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50px" style="background-color: white; padding: 10px; border-radius: 15px; margin: 5px;"/>
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/roody-alexis-2704">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px" style="background-color: white; padding: 10px; border-radius: 15px; margin: 5px;"/>
   </a>
 </p>
