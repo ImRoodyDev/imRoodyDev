@@ -17,12 +17,10 @@
   </p>
 </div>
 
-<div align="center"
-  style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/ImRoodyDev/imroodydev/main/img/code-solid-full.svg" alt="code icon"
-    height="28" />
-  <b style="margin: 0; font-weight: 800;">Things I code with</b>
-</div>
+<h2 align="center" style="font-weight: 800; display: flex; gap: 4px; align-items: center; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/ImRoodyDev/imroodydev/main/img/code-solid-full.svg" alt="code icon" height="28" />
+  Things I code with
+</h2>
 <div align="center" style="max-width: 60%;display: flex; flex-direction: column; margin: 0 auto;">
   <h4 align="center">Frontend</h4>
   <p align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 8px; justify-content: center;">
@@ -56,6 +54,9 @@
     <img style="border-radius: 12px; overflow: hidden; height: 22px;"
       src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black"
       alt="Webpack" />
+    <img style="border-radius: 12px; overflow: hidden; height: 22px;"
+      src="https://img.shields.io/badge/javafx-%23007396.svg?style=flat-square&logo=openjdk&logoColor=white"
+      alt="JavaFX" />
   </p>
 
   <h4 align="center">Backend</h4>
@@ -150,14 +151,12 @@
 </div>
 
 <div style="margin: 40px 0;">
-  <div align="center"
-    style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
-    <img src="https://raw.githubusercontent.com/ImRoodyDev/imroodydev/main/img/chart-pie-solid-full.svg"
-      alt="stats icon" height="28" />
-    <b style="margin: 0; font-weight: 800;">GitHub Stats</b>
-  </div>
+  <h2 align="center" style="font-weight: 800; display: flex; gap: 4px; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/ImRoodyDev/imroodydev/main/img/chart-pie-solid-full.svg" alt="stats icon" height="28" />
+    GitHub Stats
+  </h2>
   <p align="center"
-    style="display: flex; flex-direction: row; gap: 12px; align-items: flex-start; min-width: 800px; max-width:80%; margin: 10px auto;">
+    style="display: flex; flex-direction: row; gap: 12px; just align-items: flex-start; min-width: 800px; max-width:80%; margin: 10px auto;">
     <img style="flex: 3; min-width: 0;"
       src="https://github-readme-stats.shion.dev/api?username=imroodydev&theme=default&hide_border=false&include_all_commits=true&count_private=true"
       alt="GitHub Stats" />
