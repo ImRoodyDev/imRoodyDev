@@ -25,10 +25,10 @@
   <p align="center"
     style="display: flex; flex-direction: row; gap: 12px; align-items: flex-start; min-width: 800px; max-width:80%; margin: 10px auto;">
     <img style="flex: 3; min-width: 0;"
-      src="https://github-readme-stats.shion.dev/api?username=imroodydev&theme=default&hide_border=false&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.shion.dev/api?username=imroodydev&theme=vue&hide_border=false&include_all_commits=true&count_private=true"
       alt="GitHub Stats" />
     <img style="flex: 2.36; min-width: 0;"
-      src="https://github-readme-stats.shion.dev/api/top-langs/?username=imroodydev&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+      src="https://github-readme-stats.shion.dev/api/top-langs/?username=imroodydev&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
       alt="Top Languages" />
   </p>
 </div>
