@@ -167,7 +167,7 @@
   </p>
 </div>
 
-<p align="center" style="display: flex; flex-direction: row; gap: 8px; align-items: center; justify-content: center;">
+<p align="center" style="display: flex; flex-direction: row; gap: 14px; align-items: center; justify-content: center;">
   <b style="font-size: 1em; font-weight: bold;">Connect with me |</b>
   <a href="https://github.com/imroodydev" target="blank">
     <img align="center"
