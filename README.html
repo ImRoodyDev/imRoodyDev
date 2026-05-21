@@ -14,10 +14,6 @@
     Hi, I'm a passionate and self-driven Software Engineering bachelor student. I enjoy bringing creative ideas to life,
     learning new technologies, and working on projects that challenge me to grow as a developer.
   </p>
-  <p>
-    Hi, I'm a passionate and self-driven Software Engineering bachelor student. I enjoy bringing creative ideas to life,
-    learning new technologies, and working on projects that challenge me to grow as a developer.
-  </p>
 </div>
 
 <div style="margin: 40px 0;">
