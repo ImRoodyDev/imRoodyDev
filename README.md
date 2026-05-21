@@ -5,20 +5,41 @@
 </p>
 
 <div align="left">
-  <div align="center"
-    style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
+  <h2 align="center" style="font-weight: 800; display: flex; gap: 4px; align-items: center; justify-content: center;">
     <img src="https://raw.githubusercontent.com/ImRoodyDev/imroodydev/main/img/info-solid-full.svg" alt="info icon"
       height="28" />
-    <b style="margin: 0; font-weight: 800;">Things about me</b>
-  </div>
+    Things about me
+  </h2>
+  <p>
+    Hi, I'm a passionate and self-driven Software Engineering bachelor student. I enjoy bringing creative ideas to life,
+    learning new technologies, and working on projects that challenge me to grow as a developer.
+  </p>
   <p>
     Hi, I'm a passionate and self-driven Software Engineering bachelor student. I enjoy bringing creative ideas to life,
     learning new technologies, and working on projects that challenge me to grow as a developer.
   </p>
 </div>
 
+<div style="margin: 40px 0;">
+  <h2 align="center" style="font-weight: 800; display: flex; gap: 4px; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/ImRoodyDev/imroodydev/main/img/chart-pie-solid-full.svg"
+      alt="stats icon" height="28" />
+    GitHub Stats
+  </h2>
+  <p align="center"
+    style="display: flex; flex-direction: row; gap: 12px; align-items: flex-start; min-width: 800px; max-width:80%; margin: 10px auto;">
+    <img style="flex: 3; min-width: 0;"
+      src="https://github-readme-stats.shion.dev/api?username=imroodydev&theme=default&hide_border=false&include_all_commits=true&count_private=true"
+      alt="GitHub Stats" />
+    <img style="flex: 2.36; min-width: 0;"
+      src="https://github-readme-stats.shion.dev/api/top-langs/?username=imroodydev&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+      alt="Top Languages" />
+  </p>
+</div>
+
 <h2 align="center" style="font-weight: 800; display: flex; gap: 4px; align-items: center; justify-content: center;">
-  <img src="https://raw.githubusercontent.com/ImRoodyDev/imroodydev/main/img/code-solid-full.svg" alt="code icon" height="28" />
+  <img src="https://raw.githubusercontent.com/ImRoodyDev/imroodydev/main/img/code-solid-full.svg" alt="code icon"
+    height="28" />
   Things I code with
 </h2>
 <div align="center" style="max-width: 60%;display: flex; flex-direction: column; margin: 0 auto;">
@@ -150,22 +171,6 @@
   </p>
 </div>
 
-<div style="margin: 40px 0;">
-  <h2 align="center" style="font-weight: 800; display: flex; gap: 4px; align-items: center; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/ImRoodyDev/imroodydev/main/img/chart-pie-solid-full.svg" alt="stats icon" height="28" />
-    GitHub Stats
-  </h2>
-  <p align="center"
-    style="display: flex; flex-direction: row; gap: 12px; just align-items: flex-start; min-width: 800px; max-width:80%; margin: 10px auto;">
-    <img style="flex: 3; min-width: 0;"
-      src="https://github-readme-stats.shion.dev/api?username=imroodydev&theme=default&hide_border=false&include_all_commits=true&count_private=true"
-      alt="GitHub Stats" />
-    <img style="flex: 2.36; min-width: 0;"
-      src="https://github-readme-stats.shion.dev/api/top-langs/?username=imroodydev&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-      alt="Top Languages" />
-  </p>
-</div>
-
 <p align="center" style="display: flex; flex-direction: row; gap: 8px; align-items: center; justify-content: center;">
   <b style="font-size: 1em; font-weight: bold;">Connect with me |</b>
   <a href="https://github.com/imroodydev" target="blank">
@@ -183,4 +188,4 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
       alt="ImRoodyy" height="30" width="40" />
   </a>
-</p>
+</p>>
