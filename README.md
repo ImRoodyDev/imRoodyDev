@@ -9,7 +9,7 @@
     style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
     <img src="https://raw.githubusercontent.com/ImRoodyDev/imroodydev/main/img/info-solid-full.svg" alt="info icon"
       height="28" />
-    <h2 style="margin: 0; font-weight: 800;">Things about me</h2>
+    <b style="margin: 0; font-weight: 800;">Things about me</b>
   </div>
   <p>
     Hi, I'm a passionate and self-driven Software Engineering bachelor student. I enjoy bringing creative ideas to life,
@@ -21,7 +21,7 @@
   style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/ImRoodyDev/imroodydev/main/img/code-solid-full.svg" alt="code icon"
     height="28" />
-  <h2 style="margin: 0; font-weight: 800;">Things I code with</h2>
+  <b style="margin: 0; font-weight: 800;">Things I code with</b>
 </div>
 <div align="center" style="max-width: 60%;display: flex; flex-direction: column; margin: 0 auto;">
   <h4 align="center">Frontend</h4>
@@ -154,7 +154,7 @@
     style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
     <img src="https://raw.githubusercontent.com/ImRoodyDev/imroodydev/main/img/chart-pie-solid-full.svg"
       alt="stats icon" height="28" />
-    <h2 style="margin: 0; font-weight: 800;">GitHub Stats</h2>
+    <b style="margin: 0; font-weight: 800;">GitHub Stats</b>
   </div>
   <p align="center"
     style="display: flex; flex-direction: row; gap: 12px; align-items: flex-start; min-width: 800px; max-width:80%; margin: 10px auto;">
