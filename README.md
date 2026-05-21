@@ -5,7 +5,8 @@
 </p>
 
 <div align="left">
-  <div align="left" style="display: flex; align-items: center; gap: 10px;">
+  <div align="center"
+    style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
     <img src="https://raw.githubusercontent.com/ImRoodyDev/imroodydev/main/img/info-solid-full.svg" alt="info icon"
       height="28" />
     <h2 style="margin: 0; font-weight: 800;">Things about me</h2>
@@ -16,7 +17,8 @@
   </p>
 </div>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<div align="center"
+  style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/ImRoodyDev/imroodydev/main/img/code-solid-full.svg" alt="code icon"
     height="28" />
   <h2 style="margin: 0; font-weight: 800;">Things I code with</h2>
@@ -148,7 +150,8 @@
 </div>
 
 <div style="margin: 40px 0;">
-  <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <div align="center"
+    style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
     <img src="https://raw.githubusercontent.com/ImRoodyDev/imroodydev/main/img/chart-pie-solid-full.svg"
       alt="stats icon" height="28" />
     <h2 style="margin: 0; font-weight: 800;">GitHub Stats</h2>
