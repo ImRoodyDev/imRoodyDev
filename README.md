@@ -58,6 +58,9 @@
       src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"
       alt="React Native" />
     <img style="border-radius: 12px; overflow: hidden; height: 22px;"
+      src="https://img.shields.io/badge/expo-%23000020.svg?style=flat-square&logo=expo&logoColor=white"
+      alt="Expo" />
+    <img style="border-radius: 12px; overflow: hidden; height: 22px;"
       src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"
       alt="React Router" />
     <img style="border-radius: 12px; overflow: hidden; height: 22px;"
